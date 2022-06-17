@@ -431,3 +431,14 @@ ForEach(expenses.items) { item in
 }
 
 
+
+
+
+iExpense: Wrap up
+
+
+
+
+Although the app we were building wasn’t itself difficult, getting there took quite a bit of learning – we had to cover UserDefaults, Codable, sheet(), onDelete(), @StateObject, and more. Some of those things – particularly UserDefaults and Codable – have only been introduced at a high level in this project, which is intentional; we’ll be getting into them more later on.
+
+
